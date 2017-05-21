@@ -1,0 +1,56 @@
+
+body{
+	width: 376px;
+	height: 530px;
+	border: solid 2px #5a5a5a;
+	background: #fff;
+	font-family: Tahoma;
+}
+
+.name{
+	display: inline-block;
+	text-align: center;
+	margin:10px 0 0 58px;
+	font-size: 22px;
+	color: #242424;
+	}
+
+.image{
+	width: 250px;
+	height: 285px;
+	margin:20px 0 0 63px;
+}
+
+.credit{
+	width: 190px;
+	height: 30px;
+	background-color: #8bc144;
+	text-align: center;
+	color: #fff;
+	display: inline-block;
+	box-shadow: -3px 3px 0px 0px rgba(156,156,156,1);
+	font-size: 22px;
+}
+
+.price{
+	display: inline-block;
+	text-align: center;
+	font-size: 28px;
+	color: #242424;
+	margin: 15px 0 0 120px;
+	}
+	
+.button{
+	width: 230px;
+	height: 44px;
+	background-color: #ff0000;
+	text-align: center;
+	color: #fff;
+	display: inline-block;
+	margin: 15px 0 0 73px;
+	box-shadow: 0px 4px 0px 0px rgba(133,0,0,1);
+	font-size: 31px;
+	padding-top: 2px;
+	text-shadow: -1px 1px 0px rgba(0, 0, 0, 1);
+	text-align: center;
+	}

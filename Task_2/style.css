@@ -1,25 +1,17 @@
 
-table{
+table {
 	width: 600px;
 	margin: auto;
+	background-color: #fff;
 }
-.cell{
+
+.cell {
 	width: 200px;
 	height: 200px;
 	background-color: #850000;
 }
-.cellwhite{
-	width: 200px;
-	height: 200px;
-	background-color: #fff;
-}
-.figure{
-	
-	width: 200px;
-	height: 200px;
-	background-color: #fff;
-}
-img{
+
+img {
 	width: 200px;
 	height: 200px;
 }
